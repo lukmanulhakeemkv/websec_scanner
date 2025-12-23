@@ -1,0 +1,13 @@
+admin
+backup
+uploads
+old
+test
+dev
+.git
+.gitignore
+config
+backup.zip
+phpinfo.php
+robots.txt
+sitemap.xml
